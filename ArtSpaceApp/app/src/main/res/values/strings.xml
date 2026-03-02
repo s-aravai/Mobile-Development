@@ -1,0 +1,20 @@
+<resources>
+    <!-- Artwork 1 -->
+    <string name="art_1_title">The Apotheosis of Hercules</string>
+    <string name="art_1_artist">François Lemoyne</string>
+    <string name="art_1_year">1731</string>
+
+    <!-- Artwork 2 -->
+    <string name="art_2_title">Jasmine</string>
+    <string name="art_2_artist">William Morris</string>
+    <string name="art_2_year">1987</string>
+
+    <!-- Artwork 3 -->
+    <string name="art_3_title">Alcázar of Segovia, Spain</string>
+    <string name="art_3_artist">David Roberts</string>
+    <string name="art_3_year">1836</string>
+
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="app_name">artspaceapp\t</string>
+</resources>
